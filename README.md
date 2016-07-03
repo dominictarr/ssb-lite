@@ -1,0 +1,6 @@
+# ssb-lite
+
+
+## License
+
+MIT
